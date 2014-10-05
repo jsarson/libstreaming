@@ -5,6 +5,9 @@
 *.class
 bin/
 gen/
+.idea/
+.gradle/
+build/
 *.class
 *.o
 *.so

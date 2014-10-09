@@ -12,6 +12,7 @@ build/
 *.o
 *.so
 *.sh
+*.iml
 local.properties
 custom_rules.xml
 ant.properties
